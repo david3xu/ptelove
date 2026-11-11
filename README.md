@@ -8,7 +8,7 @@ Repo setup and screen design.
 
 ## First learning flow 
 
-Study a small vocab book for PTE RS and RFD preparation. See a word and its pronunciation guide (UK), listen to the word, and move ot the next entry. 
+Study a small vocab book for PTE RS and WFD preparation. See a word and its pronunciation guide (UK), listen to the word, and move to the next entry. 
 
 ## First feature 
 
@@ -29,3 +29,7 @@ Keep practice screens, wordbook loading, audio and study data separate. Add new 
 ## Running the app 
 
 Run instruction will be added with the feature implementation. 
+
+## Design 
+
+[View the Vocab Learning design](docs/design/vocab-learning.md)
