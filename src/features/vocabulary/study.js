@@ -27,7 +27,7 @@ export function startStudy(book) {
 
     function showAuditError() {
         status.textContent =
-            "Audit could not play. You can still use Previous and Next.";
+            "Audio could not play. You can still use Previous and Next.";
     }
 
     previous.addEventListener("click", () => {
