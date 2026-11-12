@@ -4,7 +4,33 @@ A PTE study app that I am building manually, one feature at a time.
 
 ## Current stage 
 
-Repo setup and screen design. 
+Requires Node.js compatible with the installed Vite version, and npm 
+
+From the project root, install the locked dependencies on a fresh checkout: 
+
+```sh
+npm ci 
+```
+
+Start the development server: 
+```sh 
+npm run dev 
+```
+
+Open the Local URL printed in the terminal. Stop the server with Control-C
+
+Build and inspect the saved application locally: 
+
+```sh 
+npm run build 
+npm run preview 
+```
+
+Preview serves the existing build. Rebuild after source changes. 
+
+The starter book is `public/data/rs-wfd.json`
+Listen uses browser speech and reqeusts UK English. 
+
 
 ## First learning flow 
 
