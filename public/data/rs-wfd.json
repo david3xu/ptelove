@@ -1,0 +1,31 @@
+{
+  "id": "rs-wfd-starter",
+  "name": "RS/WFD Vocab",
+  "entries": [
+    {
+      "id": "rs-wfd-001",
+      "word": "academic",
+      "pronunciation": "ˌækəˈdemɪk"
+    },
+    {
+      "id": "rs-wfd-002",
+      "word": "academic paper",
+      "pronunciation": "ˌækəˈdemɪk ˈpeɪpər"
+    },
+    {
+      "id": "rs-wfd-003",
+      "word": "academic literature",
+      "pronunciation": "ˌækəˈdemɪk ˈlɪtərətʃər"
+    },
+    {
+      "id": "rs-wfd-004",
+      "word": "academic journal",
+      "pronunciation": "ˌækəˈdemɪk ˈdʒɜːrnəl"
+    },
+    {
+      "id": "rs-wfd-005",
+      "word": "academic publication",
+      "pronunciation": "ˌækəˈdemɪk ˌpʌblɪˈkeɪʃən"
+    }
+  ]
+}
